@@ -1,5 +1,5 @@
 
- # Oi! Bem-vindo a minha página!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> 
+ # Oi! Bem-vindo à minha página!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> 
 <p></br> Sou a Carol, mãe da Helena, estudante de desenvolvimento de software fullStack na Trybe ( 
 Escola de tecnologia) Decidir estudar tecnologia por que me apaixonei por esse mundo de solucionar problemas, de vencer desafios, aprender a cada dia,  e  criar soluções que façam diferença na vida das pessoas!<br>
 📫 Me encontrem no **carolyla@hotmail.com**
@@ -41,6 +41,7 @@ Escola de tecnologia) Decidir estudar tecnologia por que me apaixonei por esse m
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
  
 </a>
+ <p align="left"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 </p>
 
 <p>
