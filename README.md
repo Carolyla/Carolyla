@@ -1,7 +1,9 @@
 
  # Oi! Bem-vindo a minha página!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> 
 <p></br> Sou a Carol, mãe da Helena, estudante de desenvolvimento de software fullStack na Trybe ( 
-Escola de tecnologia) Decidir estudar tecnologia por que me apaixonei por esse mundo de solucionar problemas, de vencer desafios, aprender a cada dia,  e  criar soluções que façam diferença na vida das pessoas!<br><br>
+Escola de tecnologia) Decidir estudar tecnologia por que me apaixonei por esse mundo de solucionar problemas, de vencer desafios, aprender a cada dia,  e  criar soluções que façam diferença na vida das pessoas!<br>
+📫 Me encontrem no **carolyla@hotmail.com**
+<br><br>
 <img src='OctoCarol.png.png' width ='400' align="right"/>
 
 
