@@ -1,6 +1,8 @@
 
- # Hi!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> Welcome to my page!
-<p></br> I'm Carolyla, FrontEnd developer from <img src="https://user-images.githubusercontent.com/92409813/164912720-0ed590c6-7f52-4233-8ddc-50b9932422fb.png" width="40"/> <b>Itabuna, Brazil</b> </p> <img src="OctoCarol.png.png#gh-light-mode-only" width="400" align="right"/>
+ # Oi! Bem-vindo a minha página!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> 
+<p></br> Sou a Carol, mãe da Helena, estudante de desenvolvimento de software fullStack na Trybe ( 
+Escola de tecnologia) Decidir estudar tecnologia por que me apaixonei por esse mundo de solucionar problemas, de vencer desafios, aprender a cada dia,  e  criar soluções que façam diferença na vida das pessoas! 
+
 <h3>Things I code with</h3><p align="left"> 
   
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
