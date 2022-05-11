@@ -1,9 +1,11 @@
 
  # Oi! Bem-vindo a minha página!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> 
 <p></br> Sou a Carol, mãe da Helena, estudante de desenvolvimento de software fullStack na Trybe ( 
-Escola de tecnologia) Decidir estudar tecnologia por que me apaixonei por esse mundo de solucionar problemas, de vencer desafios, aprender a cada dia,  e  criar soluções que façam diferença na vida das pessoas! 
+Escola de tecnologia) Decidir estudar tecnologia por que me apaixonei por esse mundo de solucionar problemas, de vencer desafios, aprender a cada dia,  e  criar soluções que façam diferença na vida das pessoas!<br><br>
+<img src='OctoCarol.png.png' width ='400' align="right"/>
 
-<h3>Things I code with</h3><p align="left"> 
+
+<h3>Things I code with</h3><p align="left">
   
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -34,11 +36,13 @@ Escola de tecnologia) Decidir estudar tecnologia por que me apaixonei por esse m
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+ 
 </a>
 </p>
+
 <p>
   <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Carolyla&show_icons=true&locale=en&layout=compact" alt="carolyla" />
   &nbsp;<img  width="400em" src="https://github-readme-stats.vercel.app/api?username=Carolyla&show_icons=true&locale=en" alt="Carolyla" />
   <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=Carolyla&" alt="Carolyla" />
-</p>
+</p> 
